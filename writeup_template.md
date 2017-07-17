@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image3]: ./pictures/center_2017_07_17_23_40_39_928.jpg "Recovery Image 1"
 [image4]: ./pictures/center_2017_07_17_23_40_40_883.jpg "Recovery Image 2"
 [image5]: ./pictures/center_2017_07_17_23_40_42_389.jpg "Recovery Image 3"
-[image6]: ./examples/center_2017_07_13_22_28_32_594.jpg "Normal Image"
+[image6]: ./pictures/center_2017_07_13_22_28_32_594.jpg "Normal Image"
 [image7]: ./pictures/center_2017_07_13_22_28_32_594_flipped.jpg "Flipped Image"
 
 ## Rubric Points
